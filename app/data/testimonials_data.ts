@@ -1,6 +1,6 @@
-import { Testimonial1Card } from "../components/testimonials";
+import { Testimonial2Card } from "../components/testimonials";
 
-export const testimonials: Testimonial1Card[] = [
+export const testimonials: Testimonial2Card[] = [
   {
     className: `dark:bg-dark-blue-card border-none dark:shadow-md`,
 
